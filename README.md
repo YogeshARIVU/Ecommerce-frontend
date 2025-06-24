@@ -1,12 +1,59 @@
-# React + Vite
+# 🛍️ E-Commerce Frontend (React + Vite)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is the frontend of an E-Commerce application built using **React** with **Vite** for fast development and builds.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- ⚡️ Fast development with Vite
+- 🛒 Modern React components
+- 🔗 Connects to Spring Boot backend
+- 📦 Production-ready build with `vite build`
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React
+- Vite
+- JavaScript (ES6+)
+- Tailwind CSS (optional)
+- Axios (for API calls)
+
+
+bash
+Copy
+Edit
+
+## 🔧 Setup & Run
+
+```bash
+# Install dependencies
+npm install
+
+# Start dev server
+npm run dev
+
+# Build for production
+npm run build
+
+# Preview the production build
+npm run preview
+🌐 Deployment
+To deploy on platforms like Railway, Netlify, or Vercel:
+
+Run: npm run build
+
+Deploy the dist folder
+
+Make sure to set correct backend API URL in .env file or source code.
+
+📄 License
+MIT License
+
+yaml
+Copy
+Edit
+
+---
+
+📌 You can copy and save this as your `README.md` file in your project folder.
+
+Let me know if you'd like to customize it (e.g., include a screenshot, your name, backend URL, or dep
