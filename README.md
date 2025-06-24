@@ -52,8 +52,4 @@ yaml
 Copy
 Edit
 
----
 
-📌 You can copy and save this as your `README.md` file in your project folder.
-
-Let me know if you'd like to customize it (e.g., include a screenshot, your name, backend URL, or dep
